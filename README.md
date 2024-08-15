@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinita Swami</h1>
 <h3 align="center">A passionate Computer Science Engineer| Data Scientist| Data Analyst from India</h3>
 
-- 📫 How to reach me **vinitaswami5455@gnail.com**
+- 📫 How to reach me **vinitaswami5455@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
